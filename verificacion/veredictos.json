@@ -1,0 +1,394 @@
+{
+ "COH-01": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Ninguna sustantiva. Conviene precisar dos consecuencias. (1) La hipoxemia aislada ≤ 60 pasa de moderada (Roma) a grave (GOLD). (2) Una PaO2 de 61-69 mmHg queda sin clasificar.",
+  "fuentes": "figuras:V1"
+ },
+ "COH-02": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V2"
+ },
+ "COH-03": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V2"
+ },
+ "COH-04": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Matizar que las figuras se presentan como «enfoque complementario potencial», no como recomendación formal. Rebajar MUL-01 de CRÍTICA a ALTA.",
+  "fuentes": "figuras:V3"
+ },
+ "COH-07": {
+  "veredicto": "CONFIRMADO",
+  "nota": "La contradicción se atenúa porque la figura se refiere a insuficiencia hipoxémica, pero sigue resultando confusa.",
+  "fuentes": "figuras:V8"
+ },
+ "COH-13": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V9"
+ },
+ "DX-01": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V6"
+ },
+ "DX-02": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V6"
+ },
+ "DX-10": {
+  "veredicto": "CONFIRMADO",
+  "nota": "1. Citar con exactitud: \"La USPSTF desaconseja (D) el cribado en adultos asintomáticos, incluidos fumadores\". 2. Citar Mangione 2022. 3. Declarar y justificar la divergencia de GOLD sobre la búsqueda activa de casos en expuestos asintomáticos (PDF 45).",
+  "fuentes": "externa-1:E9, externa-1:E9"
+ },
+ "DX-12": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V12"
+ },
+ "EPI-01": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Retirar la 164. La cifra del 11 % procede de McGeachie (163). | Dejar solo la 220. | Sustituir la 49. | Citar la OMS Global Health Estimates o la WHO Mortality Database. | Citar la ref. 119 y, si se desea, Smith BM, JAMA 2020. | Sustituir. | Retirar la 164; parece un patrón repetido de la ref. 164 «intrusa».",
+  "fuentes": "externa-2:F2.1, externa-2:F2.2, externa-2:F2.3, externa-2:F2.4, externa-2:F2.5, externa-2:F2.6 (extra), externa-2:F2.7 (extra)"
+ },
+ "EPI-05": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "El mismo matiz sobre los metaanálisis.",
+  "fuentes": "figuras:V10"
+ },
+ "EPI-07": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Escribir «2.513 por 100.000 (≈2,5 %)». Indicar que la variación desde 1990 no es significativa. Matiz: la guía no habla expresamente de «tendencia», así que esa parte del hallazgo es menor.",
+  "fuentes": "externa-2:F3.1"
+ },
+ "EPI-10": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Escribir «CIE-10 J40-J44 (EPOC); CIE-9 490-496 \"COPD and allied conditions\"». Corrección al hallazgo: el GBD incluye J47, no solo J41-J44.",
+  "fuentes": "externa-2:F3.2"
+ },
+ "EPI-11": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Cambiar a «15.600 millones de exacerbaciones acumuladas». Revisar también «trillion»/«billion» en todo el párrafo. Mencionar la financiación del estudio (industria).",
+  "fuentes": "externa-2:F3.3"
+ },
+ "EQ-02": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V12"
+ },
+ "EQ-09": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Confirmado: - la afirmación «more common in men» contradice la ref. 327; - «all approximately 34%» es falso para la ansiedad sola (20 %); - el 61/39 parece la composición por sexo de un subgrupo pequeño (depresión sola ≈5 % de 734, es decir, ≈37 personas), no una prevalencia. No pude verificarlo en el texto completo, que es de pago. Corrección: «La depresión es más prevalente en mujeres con EPOC (ECLIPSE); ≈1 de cada…",
+  "fuentes": "externa-2:F9"
+ },
+ "EXA-02": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V8"
+ },
+ "EXA-03": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Ninguna sustantiva. Conviene precisar dos consecuencias. (1) La hipoxemia aislada ≤ 60 pasa de moderada (Roma) a grave (GOLD). (2) Una PaO2 de 61-69 mmHg queda sin clasificar.",
+  "fuentes": "figuras:V1"
+ },
+ "EXA-04": {
+  "veredicto": "CONFIRMADO",
+  "nota": "La discrepancia con la ref. 932 (Celli-Barnes 2007) y el «or» de ediciones previas son [externo, no verificable con figuras]. Los huecos y solapes internos quedan confirmados.",
+  "fuentes": "figuras:V1"
+ },
+ "EXA-06": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Precisar que, dentro de la figura, la supervivencia se atribuye a la VNI. La fusión HFNT-supervivencia aparece en el mensaje clave (p103). La figura limita el «primer modo» a la insuficiencia «hypoxemic».",
+  "fuentes": "figuras:V8"
+ },
+ "EXA-09": {
+  "veredicto": "CONFIRMADO",
+  "nota": "La guía afirma que la etiología es mayoritariamente viral y recomienda hacer pruebas virales, pero no dice qué hacer si salen positivas. Es una omisión clínicamente relevante e incoherente. Corrección: añadir un apartado breve de tratamiento antiviral, con oseltamivir ante gripe sospechada o confirmada y antivirales frente al SARS-CoV-2 según las guías vigentes, enlazado con la Fig 4.2.",
+  "fuentes": "externa-2:F10"
+ },
+ "EXA-14": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Escribir «≈7-20 % a 30 días según el sistema sanitario (hasta ≈1/3 a 1 año)» y citar (1)-(3). El rango del 30-50 % se acerca a las tasas a 1 año, no a 30 días.",
+  "fuentes": "externa-2:F4.1"
+ },
+ "EXA-15": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Escribir «mortalidad hospitalaria del 8,3 % y mortalidad acumulada del 33-49 % a 1-3 años (n = 205)». Retirar «large». Puede añadirse como referencia pooled la mortalidad hospitalaria del 6,2 % de Waeijen-Smit 2024.",
+  "fuentes": "externa-2:F4.2"
+ },
+ "EXA-19": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V8"
+ },
+ "FARM-01": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "La figura va dirigida a pacientes con EPOC, que ya es un factor de riesgo, así que «≥ 50» coincide con el texto y el ACIP. La divergencia real es otra: el «and/or» abre la vacuna a pacientes con EPOC menores de 50 años, y la A se aplica a todo (entre 50 y 59 años la base es de inmunopuente). La omisión del Guillain-Barré está en el texto, no en la figura. | Confirmado: - «and/or with chronic… lung disease» extiende la recomendación a personas de <50 años con EPOC, algo que ACIP no recomienda; - se atribuye a la recomendación de 50-59 años una evidencia «A» que no está justificada; - no se mencionan la dosis única, la no revacunación ni la señal de SGB; - la «European Commission» autoriza la comercialización, no emite recomendaciones de vacunación; - en el cap. 4 (PDF 12…",
+  "fuentes": "figuras:V11, externa-2:F7",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "FARM-08": {
+  "veredicto": "CONFIRMADO",
+  "nota": "El contenido híbrido se confirma: la vareniclina (2006) no estaba en la guía PHS 2000, donde la nortriptilina era de segunda línea. Sugiero rebajar de ALTA a MEDIA (figura de apoyo, sin riesgo grave inmediato).",
+  "fuentes": "figuras:V7",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "FARM-12": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V2"
+ },
+ "FARM-14": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Que los 83 mL de BOREAS correspondan a la semana 12 es [externo], aunque coincide con el resumen publicado (confianza alta).",
+  "fuentes": "figuras:V15"
+ },
+ "FARM-15": {
+  "veredicto": "CONFIRMADO",
+  "nota": "1. En la Fig. 3.9 y en el texto, indicar que no hay datos de ensayos aleatorizados con LABA+LAMA de base. 2. Posicionarla como opción basada en extrapolación (evidencia D o \"consenso\"), o como alternativa al segundo broncodilatador cuando este no se tolera. 3. Añadir \"if available\" en la figura.",
+  "fuentes": "externa-1:E5, externa-1:E5"
+ },
+ "FARM-18": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V15"
+ },
+ "IA-01": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "Confirmado: (a) la referencia está equivocada; (b) se da a entender que la teleconsulta se estudió en ECA, cuando la revisión no halló evidencia; (c) se omiten el comparador multicomponente y la señal sobre reingresos. No confirmado / injusto: criticar la frase «no evidence of harm». GOLD parafrasea fielmente las conclusiones de los autores Cochrane, así que es un matiz metodológico (ausencia de evidencia ≠ evidencia…",
+  "fuentes": "externa-2:F5",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "INT-01": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "La contradicción entre figura y texto se confirma. «Ambos desactualizados» es exagerado: según el propio hallazgo, los criterios de derivación del texto coinciden en contenido con ISHLT 2021. Solo faltan la cita de 2021 y la derivación concurrente. Lo desactualizado es la figura (ISHLT 2006). Rebajar de CRÍTICA a ALTA. | 1. Retitular la Fig. 3.22 como criterios de inclusión en lista, o sustituirla por los criterios de derivación de ISHLT 2021. 2. Actualizar el texto a Leard 2021, que debe citarse. 3. Eliminar \"no candidato a LVRS\" como requisito previo y recoger la derivación simultánea.",
+  "fuentes": "figuras:V5, externa-1:E2, externa-1:E2",
+  "severidad": "ALTA",
+  "severidad_original": "CRÍTICA"
+ },
+ "INT-02": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Currow 2020, la guía ERS 2024 y las señales de mortalidad con > 30 mg MME son [externo, no verificable con figuras].",
+  "fuentes": "figuras:V14"
+ },
+ "INT-04": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Igual precisión de ubicación: Apéndice (texto), no Fig A4.1. | 1. Separar la movilización intrahospitalaria de la rehabilitación estructurada tras el alta. 2. Eliminar \"during hospitalization\" de la afirmación de mortalidad. 3. Indicar que los metaanálisis más recientes (Lu 2023, Cochrane 2016) no muestran una reducción significativa de la mortalidad. 4. Citar Greening 2014 en el cuerpo principal. 5. Recomendar iniciar la rehabilitación en las 3-4 semanas tras el alta.",
+  "fuentes": "figuras:V4, externa-1:E7, externa-1:E7"
+ },
+ "INT-05": {
+  "veredicto": "CONFIRMADO",
+  "nota": "1. Corregir la frase: \"En el único ECA directo (CELEB), LVRS y EBV produjeron mejoras similares a 12 meses, con potencia limitada; no hay evidencia comparativa sólida sobre complicaciones.\" 2. Citar CELEB. 3. Desvincular la ref. 862 de esta afirmación.",
+  "fuentes": "externa-1:E3, externa-1:E3b"
+ },
+ "INT-06": {
+  "veredicto": "CONFIRMADO",
+  "nota": "El estado ante la FDA y la ausencia de comercialización de los coils son [externo, no verificable con figuras]. | 1. Indicar que los coils no están aprobados por la FDA y que se han retirado del mercado. 2. Retirarlos de la Fig. 3.22 o marcarlos como \"no disponible / histórico\". 3. Mantener la evidencia como información histórica.",
+  "fuentes": "figuras:V5, externa-1:E3, externa-1:E3a",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "INT-07": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Ninguna. Refuerza el hallazgo que la ablación por vapor (STEP-UP) se estudió solo en enfisema heterogéneo de lóbulos superiores.",
+  "fuentes": "figuras:V13"
+ },
+ "INT-09": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Precisar que solo la denervación está desactualizada en la figura. El objetivo primario de AIRFLOW-3 es [externo, no verificable con figuras].",
+  "fuentes": "figuras:V5"
+ },
+ "INT-11": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "1. Presentar el efecto sobre la mortalidad como señal procedente de objetivos secundarios o análisis adicionales, no como efecto establecido. 2. En la Fig. 3.19, especificar \"BGF 320 µg vs LAMA/LABA\" y \"vs ICS/LABA no significativo\", y añadir que BGF 160 no fue significativo. 3. Mencionar el debate sobre la retirada de ICS. 4. Corregir los criterios de inclusión.",
+  "fuentes": "externa-1:E6, externa-1:E6a"
+ },
+ "INT-13": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V9"
+ },
+ "MET-02": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "La «inversión» (metaanálisis = B) es una ambigüedad, no una regla explícita: el encabezado de B permite leer «metaanálisis de ECA limitados». La ausencia de fuerza de recomendación y de método formal de riesgo de sesgo se confirma.",
+  "fuentes": "figuras:V10",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "MET-04": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "Corrección al hallazgo: el título «no se declaran» es inexacto. Las declaraciones existen online y el informe remite a ellas. Lo que sí se confirma: (a) el documento no incluye una declaración de financiación; (b) no describe ninguna política de gestión de COI (umbrales, recusación en las votaciones); (c) las declaraciones públicas enlazadas corresponden a 2022 y no al ciclo de GOLD 2026; (d) el modelo «venta de docu…",
+  "fuentes": "externa-2:F1"
+ },
+ "MET-08": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Se verifican los 4 puntos de NOV-15. Para MET-08 sugiero rebajar de ALTA a MEDIA: es una incoherencia de gradación con impacto clínico limitado.",
+  "fuentes": "figuras:V15",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "MET-09": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Que no haya ECA que respalden el criterio del cultivo previo es [externo, no verificable con figuras].",
+  "fuentes": "figuras:V8"
+ },
+ "MET-11": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Reescribir el párrafo ensayo por ensayo: • METREX: positivo solo en el estrato eosinofílico. • METREO: no significativo. • MATINEE: positivo en el objetivo primario, con eosinófilos ≥300 y de 52 a 104 semanas. • Eliminar la reducción de urgencias u hospitalizaciones, o marcarla como \"no testable por jerarquía\".",
+  "fuentes": "externa-1:E4, externa-1:E4a"
+ },
+ "MET-12": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Que los 83 mL de BOREAS correspondan a la semana 12 es [externo], aunque coincide con el resumen publicado (confianza alta).",
+  "fuentes": "figuras:V15"
+ },
+ "MET-13": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V14"
+ },
+ "MET-14": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Si el hallazgo alude a una «ref. 572 corrupta», el problema está en la bibliografía, no en la figura.",
+  "fuentes": "figuras:V7"
+ },
+ "MET-15": {
+  "veredicto": "CONFIRMADO",
+  "nota": "1. Eliminar la ref. 241. 2. Sustituir las refs. 215 y 241 por fuentes válidas, por ejemplo la ref. 240 (Domej 2014) o una revisión actual. 3. Implantar un cribado de retractaciones mediante PubMed, Retraction Watch o Crossref.",
+  "fuentes": "externa-1:E8, externa-1:E8"
+ },
+ "MUL-01": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Matizar que las figuras se presentan como «enfoque complementario potencial», no como recomendación formal. Rebajar MUL-01 de CRÍTICA a ALTA. | La figura propone una TC de alta resolución anual «de cribado» para todos los pacientes. Eso contradice el texto de la propia guía (PDF 123 y 130-131, que excluye a los no fumadores) y los criterios de la USPSTF. Corrección: «LDCT anual solo si se cumplen los criterios de cribado y el paciente es candidato a tratamiento curativo, tras decisión compartida». En la Fig 5.5: «TC según las indicaciones del cap. 2 (Fig 2.1…",
+  "fuentes": "figuras:V3, externa-2:F8.1",
+  "severidad": "ALTA",
+  "severidad_original": "CRÍTICA"
+ },
+ "MUL-02": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Sustituir la frase por: \"Preferir β1-selectivos (bisoprolol, metoprolol, nebivolol) o diltiazem/verapamilo si FEVI >40 %. Evitar betabloqueantes no selectivos y sotalol si hay broncoespasmo. Propafenona contraindicada en EPOC grave/broncoespasmo. Adenosina contraindicada en enfermedad broncoespástica. Vigilar la toxicidad pulmonar de la amiodarona.\" Citar la ESC 2024 y la §10.12 de ACC/AHA 2023. | Decisión del coordinador: se mantiene CRÍTICA (el verificador propuso ALTA pero considera CRÍTICA «defendible» en urgencias): la afirmación puede inducir el uso de adenosina, sotalol, propafenona o betabloqueantes no selectivos en broncoespasmo, contraindicados en ficha técnica.",
+  "fuentes": "externa-1:E1, externa-1:E1"
+ },
+ "MUL-07": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Añadir: \"El treprostinil inhalado no debe usarse en la HP-EPOC (ensayo PERFECT interrumpido por daño). En la HP grave, el tratamiento con vasodilatadores debe limitarse a centros expertos o a ensayos clínicos.\"",
+  "fuentes": "externa-1:E10, externa-1:E10"
+ },
+ "MUL-10": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "Confirmado: - se citan dos criterios distintos (ACS en el cap. 2, USPSTF en el cap. 5) sin conciliarlos; - la Fig 5.4 mantiene los umbrales del NLST (>55 años, >30 paquetes-año) junto a criterios vigentes más amplios. Exagerado: - La Fig 5.4 se titula «Common Risk Factors for the Development of Lung Cancer». Es una lista de factores de riesgo, no de criterios de elegibilidad, así que no «contradice» a la USPSTF como …",
+  "fuentes": "externa-2:F8.2",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "MUL-14": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Confirmado: - la afirmación «more common in men» contradice la ref. 327; - «all approximately 34%» es falso para la ansiedad sola (20 %); - el 61/39 parece la composición por sexo de un subgrupo pequeño (depresión sola ≈5 % de 734, es decir, ≈37 personas), no una prevalencia. No pude verificarlo en el texto completo, que es de pago. Corrección: «La depresión es más prevalente en mujeres con EPOC (ECLIPSE); ≈1 de cada…",
+  "fuentes": "externa-2:F9"
+ },
+ "MUL-25": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V3"
+ },
+ "NOV-01": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Reescribir el párrafo ensayo por ensayo: • METREX: positivo solo en el estrato eosinofílico. • METREO: no significativo. • MATINEE: positivo en el objetivo primario, con eosinófilos ≥300 y de 52 a 104 semanas. • Eliminar la reducción de urgencias u hospitalizaciones, o marcarla como \"no testable por jerarquía\".",
+  "fuentes": "externa-1:E4, externa-1:E4a"
+ },
+ "NOV-02": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "Dupilumab, calidad de vida: bajar a nivel B. Mepolizumab: el nivel A es defendible para \"reduce exacerbaciones\" solo con MATINEE como ensayo único de calidad. \"With and without chronic bronchitis\" procede de subgrupos, lo que corresponde a un nivel B.",
+  "fuentes": "externa-1:E4, externa-1:E4b"
+ },
+ "NOV-03": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Que los 83 mL de BOREAS correspondan a la semana 12 es [externo], aunque coincide con el resumen publicado (confianza alta).",
+  "fuentes": "figuras:V15"
+ },
+ "NOV-04": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "1. Presentar el efecto sobre la mortalidad como señal procedente de objetivos secundarios o análisis adicionales, no como efecto establecido. 2. En la Fig. 3.19, especificar \"BGF 320 µg vs LAMA/LABA\" y \"vs ICS/LABA no significativo\", y añadir que BGF 160 no fue significativo. 3. Mencionar el debate sobre la retirada de ICS. 4. Corregir los criterios de inclusión.",
+  "fuentes": "externa-1:E6, externa-1:E6a"
+ },
+ "NOV-05": {
+  "veredicto": "CONFIRMADO PARCIAL",
+  "nota": "1. Añadir Martinez 2021 a la lista de referencias. 2. Fusionar las refs. 492 y 694. 3. Sustituir la ref. 791 por la 1181. 4. Corregir \"suggesta\". 5. No cambiar CAAT™.",
+  "fuentes": "externa-1:E6, externa-1:E6b"
+ },
+ "NOV-06": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V2"
+ },
+ "NOV-07": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V2"
+ },
+ "NOV-08": {
+  "veredicto": "CONFIRMADO",
+  "nota": "1. En la Fig. 3.9 y en el texto, indicar que no hay datos de ensayos aleatorizados con LABA+LAMA de base. 2. Posicionarla como opción basada en extrapolación (evidencia D o \"consenso\"), o como alternativa al segundo broncodilatador cuando este no se tolera. 3. Añadir \"if available\" en la figura.",
+  "fuentes": "externa-1:E5, externa-1:E5"
+ },
+ "NOV-15": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Se verifican los 4 puntos de NOV-15. Para MET-08 sugiero rebajar de ALTA a MEDIA: es una incoherencia de gradación con impacto clínico limitado.",
+  "fuentes": "figuras:V15"
+ },
+ "NOV-16": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V15"
+ },
+ "NOV-18": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V15"
+ },
+ "REH-01": {
+  "veredicto": "CONFIRMADO",
+  "nota": "La señal de daño está en el texto del Apéndice 4, no en la Fig A4.1. Esa figura solo afirma reducción de hospitalización (≤ 4 semanas, Evidence B) y no menciona la mortalidad. El Apéndice también cita la ref. 1725 (Chen 2025), favorable al inicio precoz, y el hallazgo debería mencionarla. Rebajar de CRÍTICA a ALTA. | 1. Separar la movilización intrahospitalaria de la rehabilitación estructurada tras el alta. 2. Eliminar \"during hospitalization\" de la afirmación de mortalidad. 3. Indicar que los metaanálisis más recientes (Lu 2023, Cochrane 2016) no muestran una reducción significativa de la mortalidad. 4. Citar Greening 2014 en el cuerpo principal. 5. Recomendar iniciar la rehabilitación en las 3-4 semanas tras el alta.",
+  "fuentes": "figuras:V4, externa-1:E7, externa-1:E7",
+  "severidad": "ALTA",
+  "severidad_original": "CRÍTICA"
+ },
+ "REH-02": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Que Puhan 2011/2016 expresen el efecto como OR y no como RR es [externo, no verificable con figuras].",
+  "fuentes": "figuras:V4"
+ },
+ "REH-04": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V9"
+ },
+ "REH-06": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Es una ambigüedad (admite la lectura «no hace falta más de 15 h»), no una contradicción frontal. Rebajar de ALTA a MEDIA. | Definir la LTOT como «≥15 h/día». Reescribir así: «24 h/día no aporta beneficio adicional frente a 15 h/día (REDOX)». Matiz: la incoherencia es real, pero de redacción. La guía mantiene las indicaciones de la LTOT, así que el riesgo de que se lea «la LTOT ya no está indicada» es bajo. Por eso rebajo la severidad.",
+  "fuentes": "figuras:V9, externa-2:F6",
+  "severidad": "MEDIA",
+  "severidad_original": "ALTA"
+ },
+ "REH-07": {
+  "veredicto": "CONFIRMADO",
+  "nota": "",
+  "fuentes": "figuras:V9"
+ },
+ "EXA-01": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Verificado por el coordinador: no hay ninguna mención a «88-92 %» ni a un objetivo de SpO2 en el cap. 4 (búsqueda en el texto completo), y la Fig 4.5 (imagen, PDF 113) no contiene ninguna línea de O2 controlado.",
+  "fuentes": "coordinador"
+ },
+ "COH-06": {
+  "veredicto": "CONFIRMADO",
+  "nota": "Verificado por el coordinador (véase EXA-01).",
+  "fuentes": "coordinador"
+ }
+}
