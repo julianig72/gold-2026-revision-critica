@@ -68,6 +68,12 @@ Tres verificadores independientes revisaron **74 hallazgos prioritarios** contra
 
 Las páginas se citan como «PDF X / impr. Y». La página impresa equivale a la del PDF menos 11.
 
-## Derechos de autor
+## Licencia
 
-Este repositorio **no incluye el documento GOLD**, que está protegido por derechos de autor. Solo se reproducen citas breves con fines de crítica y revisión. El informe original puede obtenerse en [goldcopd.org](https://goldcopd.org/).
+El contenido original de este repositorio (informes, verificaciones y tabla de hallazgos) se publica bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es); el texto completo está en [`LICENSE`](LICENSE). Puedes copiarlo, adaptarlo y redistribuirlo, incluso con fines comerciales, siempre que cites la fuente:
+
+> *Revisión crítica multidisciplinar del informe GOLD 2026* (2026). https://github.com/julianig72/gold-2026-revision-critica — CC BY 4.0.
+
+## Derechos de autor de GOLD
+
+Este repositorio **no incluye el documento GOLD**, que está protegido por derechos de autor. Solo se reproducen citas breves con fines de crítica y revisión. Esas citas siguen siendo propiedad de GOLD y **no quedan cubiertas por la licencia CC BY 4.0**. El informe original puede obtenerse en [goldcopd.org](https://goldcopd.org/).
